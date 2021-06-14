@@ -18,19 +18,18 @@ Own updated version of Enigma with no major flaws and with extra combinations an
    - This is the starting position of the rotor after setting the machine.This is inputed the same way as ring setting
    
    #### Example
-   
-      	MENU
-1.Settings
-2.Initial Setting
-3.Start
-4.Display Settings
-5.Exit
-Enter your choice : 1
-Rotor (Eg : I-S-III-S-VI-S-X-S-IX): I-S-IV-S-III-S-X-S-VIII
-Reflector (A/B/C/D) : C
-Rings of Rotors (Eg : A-S-8-S-$-S-V-S-!): A-S-b-S-2-S-@-S-!
-Plugboard Pairs - Eg : ka-s-12-s-c%-s-Ab : a^-S-Cd-S-e1-S-45
-Rotor initial setting (Eg : Q-S-#-S-R-S-@-S-1) : A-S-B-S-C-S-D-S-E
+   MENU<br>
+1.Settings<br>
+2.Initial Setting<br>
+3.Start<br>
+4.Display Settings<br>
+5.Exit<br>
+Enter your choice : 1<br>
+Rotor (Eg : I-S-III-S-VI-S-X-S-IX): I-S-IV-S-III-S-X-S-VIII<br>
+Reflector (A/B/C/D) : C<br>
+Rings of Rotors (Eg : A-S-8-S-$-S-V-S-!): A-S-b-S-2-S-@-S-!<br>
+Plugboard Pairs - Eg : ka-s-12-s-c%-s-Ab : a^-S-Cd-S-e1-S-45<br>
+Rotor initial setting (Eg : Q-S-#-S-R-S-@-S-1) : A-S-B-S-C-S-D-S-E<br>
 
 ## Finally !
  Enter the settings you need and you're done and you can 'start' and encrypt your messages :)
