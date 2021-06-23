@@ -1,4 +1,5 @@
 # Enigma-2.O
+Reinvented Enigma
 Own updated version of Enigma with no major flaws and with extra combinations and more !!!
 
 ## Enigma Settings
@@ -32,4 +33,4 @@ Plugboard Pairs - Eg : ka-s-12-s-c%-s-Ab : a^-S-Cd-S-e1-S-45<br>
 Rotor initial setting (Eg : Q-S-#-S-R-S-@-S-1) : A-S-B-S-C-S-D-S-E<br>
 
 ## Finally !
- Enter the settings you need and you're done and you can 'start' and encrypt your messages :)
+ Enter the settings you need and you're done and you can 'type' and encrypt your messages :)
