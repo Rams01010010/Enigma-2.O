@@ -1,5 +1,5 @@
 # Enigma-2.O
-Reinvented Enigma
+Reinvented Enigma.<br>
 Own updated version of Enigma with no major flaws and with extra combinations and more !!!
 
 ## Enigma Settings
