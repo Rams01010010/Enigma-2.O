@@ -22,8 +22,8 @@ Own updated version of Enigma with no major flaws and with extra combinations an
    MENU<br>
 1.Settings<br>
 2.Initial Setting<br>
-3.Start<br>
-4.Display Settings<br>
+3.Display Settings<br>
+4.Type<br>
 5.Exit<br>
 Enter your choice : 1<br>
 Rotor (Eg : I-S-III-S-VI-S-X-S-IX): I-S-IV-S-III-S-X-S-VIII<br>
